@@ -24,3 +24,11 @@ Instructions for running:
 
 4. Run python finalWithLogEntropy.py.
 
+
+To get data:
+For MNIST Dataset -> 
+a. Download all 4 files from this link: http://yann.lecun.com/exdb/mnist/ 
+b. Put the downloaded files in data/Original dataset folder 
+
+For Stanford40 dataset ->
+Download the zip file from here and extract it in the root folder.
