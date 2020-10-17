@@ -28,7 +28,7 @@ Instructions for running:
 To get data:
 For MNIST Dataset -> 
 a. Download all 4 files from this link: http://yann.lecun.com/exdb/mnist/ 
-b. Put the downloaded files in data/Original dataset folder 
+b. Put the downloaded files in "data/Original dataset" folder in the root directory.
 
 For Stanford40 dataset ->
-Download the zip file from here and extract it in the root folder.
+Download the "datasets.zip" file from here and extract it in the root directory.
